@@ -4,8 +4,6 @@ import javax.inject._
 import play.api._
 import play.api.mvc._
 
-import java.util.Base64
-import java.nio.charset.StandardCharsets
 import play.api.libs.json._
 import play.api.libs.concurrent.Execution.Implicits.defaultContext
 
